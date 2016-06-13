@@ -1,5 +1,7 @@
 # Config files
 
+### [Sublime](https://github.com/lgabster/configs-and-dotfiles/tree/master/sublime)
+
 
 ### Stylesheets
 * .csslintrc - [CSSLint](https://github.com/CSSLint/csslint)
