@@ -1,5 +1,10 @@
 # Sublime
 
+
+## Theme
+[Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
+
+
 ## Installed packages
 
 * AdvancedNewFile
@@ -33,6 +38,3 @@
 * Theme - Afterglow
 * TrailingSpaces
 
-
-## Theme
-[Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
