@@ -17,15 +17,21 @@
 * ColorPicker
 * Emmet
 * Emmet Css Snippets
+* ESLint
 * Git
 * GitGutter
 * Handlebars
+* HTML5
 * HTMLBeautify
+* JavaScriptNext - ES6 Syntax
 * JsFormat
 * LESS
 * LiveReload
 * Markdown Preview
+* MarkdownEditing
 * Package Control
+* Pretty JSON
+* Pretty YAML
 * Sass
 * SASS Snippets
 * SCSS
@@ -34,7 +40,9 @@
 * SideBarEnhancements
 * SublimeCodeIntel
 * SublimeLinter
+* SublimeLinter-contrib-eslint
 * Terminal
 * Theme - Afterglow
 * TrailingSpaces
+* Vue Syntax Highlight
 
